@@ -9,6 +9,12 @@
       "email": "finking@helle-sonne.com"
     }
   ],
+  "config": {
+    "sort-packages": true,
+    "preferred-install": "dist",
+    "disable-tls": true,
+    "secure-http": false
+  },
   "require": {
     "php": "8.0",
     "ext-json": "*",
